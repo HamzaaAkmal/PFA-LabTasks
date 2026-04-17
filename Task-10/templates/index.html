@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Superior Admission Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+  <div class="page">
+    <h1>Superior University Admission Chatbot</h1>
+    <p class="sub">Ask about admissions, programs, fee, deadlines, and contact.</p>
+
+    <div id="chat-box" class="chat-box">
+      <div class="msg bot">Hello, ask me about Superior University admissions.</div>
+    </div>
+
+    <div class="input-row">
+      <input id="user-msg" type="text" placeholder="Type your question..." />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

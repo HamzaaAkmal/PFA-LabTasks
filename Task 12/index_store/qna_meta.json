@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "question": "How can I apply for admission at Superior University?",
+    "answer": "Go to the official admissions page and use the Apply Now portal to submit your application and documents.",
+    "embed_text": "question: how can i apply for admission at superior university? answer: go to the official admissions page and use the apply now portal to submit your application and documents."
+  },
+  {
+    "id": 1,
+    "question": "Are admissions open right now?",
+    "answer": "According to the official admissions page, Admissions Open Spring 2026 is shown.",
+    "embed_text": "question: are admissions open right now? answer: according to the official admissions page, admissions open spring 2026 is shown."
+  },
+  {
+    "id": 2,
+    "question": "What program levels are available?",
+    "answer": "Program levels include Undergraduate, Postgraduate, and Associate Degree Program (ADP).",
+    "embed_text": "question: what program levels are available? answer: program levels include undergraduate, postgraduate, and associate degree program (adp)."
+  },
+  {
+    "id": 3,
+    "question": "Where can I find admission guidelines?",
+    "answer": "Admission Guidelines are linked from official Undergraduate and Postgraduate pages.",
+    "embed_text": "question: where can i find admission guidelines? answer: admission guidelines are linked from official undergraduate and postgraduate pages."
+  },
+  {
+    "id": 4,
+    "question": "Where can I download the prospectus?",
+    "answer": "Prospectus download is available on official academic pages under undergraduate and postgraduate sections.",
+    "embed_text": "question: where can i download the prospectus? answer: prospectus download is available on official academic pages under undergraduate and postgraduate sections."
+  },
+  {
+    "id": 5,
+    "question": "How do I check fee structure?",
+    "answer": "Fee structure is available on the official fee structure page with program wise details.",
+    "embed_text": "question: how do i check fee structure? answer: fee structure is available on the official fee structure page with program wise details."
+  },
+  {
+    "id": 6,
+    "question": "Are scholarships available?",
+    "answer": "Yes, scholarships and financial aid information is provided on official admissions and scholarship policy links.",
+    "embed_text": "question: are scholarships available? answer: yes, scholarships and financial aid information is provided on official admissions and scholarship policy links."
+  },
+  {
+    "id": 7,
+    "question": "What is the official admissions contact number?",
+    "answer": "For admissions related help during office hours, contact 042-38103777.",
+    "embed_text": "question: what is the official admissions contact number? answer: for admissions related help during office hours, contact 042-38103777."
+  },
+  {
+    "id": 8,
+    "question": "Where is the main campus located?",
+    "answer": "Main Campus is at 17 Km Raiwind Road, Lahore.",
+    "embed_text": "question: where is the main campus located? answer: main campus is at 17 km raiwind road, lahore."
+  },
+  {
+    "id": 9,
+    "question": "Can international students apply?",
+    "answer": "Yes, international student information is available on the official website with dedicated pages and fee details.",
+    "embed_text": "question: can international students apply? answer: yes, international student information is available on the official website with dedicated pages and fee details."
+  },
+  {
+    "id": 10,
+    "question": "Is data science offered?",
+    "answer": "You can check latest offered programs from the faculties and academics sections. Use official pages for current availability.",
+    "embed_text": "question: is data science offered? answer: you can check latest offered programs from the faculties and academics sections. use official pages for current availability."
+  },
+  {
+    "id": 11,
+    "question": "What is the first step in admission process?",
+    "answer": "Select your program first, then submit the online application form and upload required documents.",
+    "embed_text": "question: what is the first step in admission process? answer: select your program first, then submit the online application form and upload required documents."
+  }
+]

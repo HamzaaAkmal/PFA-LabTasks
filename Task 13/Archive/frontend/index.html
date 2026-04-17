@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Learning & Exam Prep Assistant</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <div class="page-bg" aria-hidden="true"></div>
+
+  <header class="hero">
+    <div class="hero-inner">
+      
+      <h1>Smart Learning & Exam Prep Assistant</h1>
+      <p class="lead">
+        Upload notes/PDFs, ask content-grounded questions, and generate exam-style practice from your own material.
+      </p>
+      <!-- <div id="healthBadge" class="health-badge">Checking local engine...</div> -->
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="panel upload-panel">
+      <h2>1. Upload Study Material</h2>
+      <form id="uploadForm">
+        <label class="file-input-wrap">
+          <input type="file" id="files" name="files" accept=".pdf,.txt,.md" multiple required />
+          <span>Select PDF/TXT/MD Files</span>
+        </label>
+        <button type="submit">Index Material</button>
+      </form>
+      <div id="uploadStatus" class="status"></div>
+    </section>
+
+    <section class="panel stats-panel">
+      <h2>2. Knowledge Base Status</h2>
+      <div id="stats" class="stats-grid"></div>
+    </section>
+
+    <section class="panel ask-panel">
+      <h2>3. Ask Questions</h2>
+      <form id="askForm">
+        <label for="question">Question</label>
+        <textarea id="question" rows="4" placeholder="Example: Explain how neural networks handle backpropagation in my notes" required></textarea>
+        <div class="row">
+          <label for="topK">Top-K Context</label>
+          <input id="topK" type="number" min="1" max="10" value="5" />
+        </div>
+        <button type="submit">Get Answer</button>
+      </form>
+      <div id="answerBox" class="answer-box"></div>
+      <div id="contexts" class="contexts"></div>
+    </section>
+
+    <section class="panel exam-panel">
+      <h2>4. Generate Exam Questions</h2>
+      <form id="examForm">
+        <label for="topic">Topic Focus (optional)</label>
+        <input id="topic" type="text" placeholder="e.g., thermodynamics, sorting algorithms" />
+        <div class="row">
+          <label for="numQuestions">Questions</label>
+          <input id="numQuestions" type="number" min="1" max="20" value="6" />
+        </div>
+        <button type="submit">Generate Practice Set</button>
+      </form>
+      <div id="examOutput" class="exam-output"></div>
+    </section>
+  </main>
+
+  <template id="contextCardTemplate">
+    <article class="context-card">
+      <div class="context-meta"></div>
+      <p class="context-text"></p>
+    </article>
+  </template>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

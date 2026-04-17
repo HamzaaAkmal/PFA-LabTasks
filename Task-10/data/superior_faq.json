@@ -1,0 +1,72 @@
+[
+  {
+    "tag": "apply",
+    "question": "how can i apply",
+    "answer": "You can apply online from Superior University admissions page and Apply Now portal.",
+    "keywords": ["apply", "application", "admission", "portal", "signup"],
+    "source": "https://www.superior.edu.pk/admissions/"
+  },
+  {
+    "tag": "admissions_open",
+    "question": "are admissions open",
+    "answer": "Official admissions page shows: Admissions Open Spring 2026.",
+    "keywords": ["open", "spring", "2026", "deadline", "last date"],
+    "source": "https://www.superior.edu.pk/admissions/"
+  },
+  {
+    "tag": "program_levels",
+    "question": "what program levels are offered",
+    "answer": "Superior admissions section lists Undergraduate, Postgraduate, and Associate Degree Program (ADP).",
+    "keywords": ["program", "undergraduate", "postgraduate", "adp", "degree"],
+    "source": "https://www.superior.edu.pk/admissions/"
+  },
+  {
+    "tag": "admission_guidelines",
+    "question": "where are admission guidelines",
+    "answer": "Admission Guidelines are linked from undergraduate and postgraduate pages.",
+    "keywords": ["guideline", "requirements", "eligibility", "criteria", "documents"],
+    "source": "https://www.superior.edu.pk/academics/undergraduate/"
+  },
+  {
+    "tag": "prospectus",
+    "question": "where to download prospectus",
+    "answer": "Prospectus download link is available on official undergraduate/postgraduate pages.",
+    "keywords": ["prospectus", "download", "booklet", "pdf"],
+    "source": "https://www.superior.edu.pk/academics/undergraduate/"
+  },
+  {
+    "tag": "fee_structure",
+    "question": "where can i check fee structure",
+    "answer": "Fee details are available on the official fee structure page with program tables.",
+    "keywords": ["fee", "tuition", "charges", "semester", "cost"],
+    "source": "https://www.superior.edu.pk/academics/fee-structure/"
+  },
+  {
+    "tag": "scholarship",
+    "question": "are scholarships available",
+    "answer": "Admissions section mentions scholarships and financial aid for eligible students.",
+    "keywords": ["scholarship", "financial aid", "merit", "policy"],
+    "source": "https://www.superior.edu.pk/admissions/"
+  },
+  {
+    "tag": "contact",
+    "question": "what is admissions contact number",
+    "answer": "For admissions-related quick assistance during office hours, contact 042-38103777 (official contact page).",
+    "keywords": ["contact", "phone", "number", "help", "office"],
+    "source": "https://www.superior.edu.pk/contact-us/"
+  },
+  {
+    "tag": "main_campus",
+    "question": "where is main campus",
+    "answer": "Main Campus: 17 Km Raiwind Road, Lahore.",
+    "keywords": ["campus", "location", "address", "raiwind", "lahore"],
+    "source": "https://www.superior.edu.pk/contact-us/"
+  },
+  {
+    "tag": "international",
+    "question": "can international students apply",
+    "answer": "Yes, official pages include international student info and separate fee structure references.",
+    "keywords": ["international", "foreign", "overseas", "global"],
+    "source": "https://www.superior.edu.pk/academics/undergraduate/"
+  }
+]
